@@ -58,8 +58,8 @@ I’m looking for roles where I can:
 
 ## 📫 How to Reach Me  
 - 📧 Email: [alokkuri27@yahoo.com]
-- 💼 LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/alok-kuri/)](#). 
-- 🌐 Portfolio: [](#). 
+- 💼 LinkedIn: [[Alok Kuri](https://www.linkedin.com/in/alok-kuri/)](#). 
+- 🌐 Portfolio: [www.alokkuri.co](#). 
 
 ---
 
