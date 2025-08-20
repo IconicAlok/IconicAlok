@@ -4,7 +4,7 @@
 **IconicAlok/IconicAlok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 - 🔭 I’m currently working on Software Developer.
 - 🌱 I’m currently learning Web Application Developement.
 - 👯 I’m looking to collaborate on Team/Project member manager who can teach me best things and give me a good mentorship so that i can give my best output.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
                       Address : Dhaka, Bangladesh.
 - 😄 Pronouns: Alok 
 - ⚡ Fun fact: Learning, Growing, Staying positive.
--->
+
