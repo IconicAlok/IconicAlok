@@ -5,7 +5,6 @@
   Designing, building, and scaling modern web applications with  
   strong backend foundations and production-ready tooling.
 </p>
-
 ---
 
 ## 🧑‍💻 About Me
