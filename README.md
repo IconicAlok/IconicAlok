@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript" />
   <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=dotnet" />
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql" />
 </p>
 
