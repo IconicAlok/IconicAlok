@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript" />
   <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql" />
 </p>
 
@@ -78,6 +79,7 @@
   <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite" />
   <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb" />
   <img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma" />
+  <img src="https://img.shields.io/badge/Sequelize-000000?style=for-the-badge&logo=sequelize&logoColor=white" />
 </p>
 
 ---
@@ -123,6 +125,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IconicAlok&show_icons=true&hide_border=true&theme=radical" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IconicAlok&hide_border=true&layout=compact&theme=radical" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IconicAlok&hide_border=true&theme=radical" />
